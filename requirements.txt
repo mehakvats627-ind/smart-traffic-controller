@@ -1,0 +1,10 @@
+streamlit>=1.37
+pygame>=2.5
+scikit-fuzzy>=0.5
+scipy>=1.11
+networkx>=3.2
+numpy>=1.26
+pandas>=2.1
+plotly>=5.22
+Pillow>=10.0
+pytest>=8.0
