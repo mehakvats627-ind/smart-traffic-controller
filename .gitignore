@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+traffic.db
+cloudflared.exe
+.streamlit/secrets.toml
